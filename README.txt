@@ -1,0 +1,4 @@
+- This repo is intended to create # of ubuntu 20.04 virtual machines using Virtualbox.
+- Specify the desired number of instances in the Vagrantfile.
+- Hostname, timedate, apt update plus vagrant and self ssh keys are set.
+- run ssh_connection.sh first to generate the self ssh key.
